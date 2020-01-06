@@ -172,7 +172,7 @@ Also [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#re
 ## Python Basics:
 
 
-## [<< Follow along in this google colab >>](https://colab.research.google.com/drive/1noy2RT_95Hf_8V89eVCvm030zSSrJ2f_) 
+## [<< Follow along in this google colab >>](https://colab.research.google.com/drive/1V6_032GIiL4TvSikqC91k2Fs6KInPpeW) 
 
 Or type the url **py1lab.sage.codes**
 
@@ -182,91 +182,7 @@ Or type the url **py1lab.sage.codes**
 
 # How do you feel?
 
-<!-- ## Review:
-
-<details>
-  <summary>What is a Variable</summary>
-  
-  A variable is something you can store information into.
-	
-</details>
-
-<details>
-  <summary>What are the three common ways to declare a string</summary>
-  
-  'Single quotes'
-  "Double quotes"
-  '''Triple Single quotes'''
-	
-</details>
-
-<details>
-  <summary>What is a Boolean?</summary>
-  
-  A boolean can be set to True or False. Yes and No.
-	
-</details>
-
-<details>
-  <summary>What is a List in python?</summary>
-  
-  A list can store multiple values in order. 
-  
-  ls = ["apples","oranges","bannas"]
-	
-</details>
-
-<details>
-  <summary>How is a Dictionary (Dict) in python different than a list?</summary>
-  
-  Dictionary has a key value pair. You usually interact with it by calling a key. `person['age']`
-	
-</details>
-
-<details>
-  <summary>What the difference between a for loop and a while loop?</summary>
-  
-  for loops are usually used to loop a certain amount of times
-  
-  while loops will loop until a condition is met.
-	
-</details>
-
-<details>
-  <summary>What is a function in Python?</summary>
-  
-  A function is a chunk of code that you can reuse and pass data into
-	
-</details>
-
-<details>
-  <summary>How do you make a comment in Python?</summary>
-  
- # use the # in front of it
-	
-</details>
-
-<details>
-  <summary>What is a conditional in Python?</summary>
-  
- A way to check if data meets a certain condition or not. `if` `elif` `else`.
-	
-</details>
-
-<details>
-  <summary>What does the `%` Modulo do?</summary>
-  
-The modulo return the remainder 
-	
-</details>
-
-
- -->
-
-
-
 ### Keep learning!
-
 
 ------
 
@@ -292,8 +208,6 @@ More learning resources:
 - [Hack reactor Prep](http://bit.ly/gsoftprep) - FREE
 
 - [PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
-
-
 
 
 ## Upcoming Events!
@@ -350,11 +264,4 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
-
-
-
-
-
-
 
