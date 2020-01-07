@@ -2,7 +2,7 @@
 
 Learn more Python and much more with the free Galvanize Data Science Prep course! [http://bit.ly/gprepdata](http://bit.ly/gprepdata)
 
-Get to this repo by typing in URL: **py.sage.codes**
+Get to this repo by typing in URL: **py1.sage.codes**
 
 ### FAQ: 
 
