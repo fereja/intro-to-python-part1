@@ -235,8 +235,8 @@ More events will be posted for June soon!
 
 Transform your career with our immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) - 10/21/19 & 2/10/2020
-- [Data Science](http://bit.ly/seadatascience) - 12/2/19 & 3/16/2020
+- [Software Engineer](http://bit.ly/seawebdev) - Feb3 - May1 | Mar23 - Jun19 | May11 - Aug7
+- [Data Science](http://bit.ly/seadatascience) - Mar16 - Jun12 | Jun29 - Sep25 | Oct5 - Jan15
 
 Remote options:
 
@@ -246,6 +246,8 @@ check out [Galvanize.com](https://www.galvanize.com/)
 #### Part-Time Courses
 
 Learn while working with out evening part-time classes
+
+[Intro to Data Science - Part-Time Evening Course](https://www.eventbrite.com/e/intro-to-data-science-part-time-evening-course-421-611-tickets-86713756179) 4/21 - 6/11
 
 [Galvanize.com](https://www.galvanize.com/)
 
