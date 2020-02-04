@@ -51,7 +51,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 - Functions
 - Scopes
 - Working with libraries
-- More
+- Tying it all together
 
 
 ### Challenges:
@@ -222,8 +222,6 @@ More learning resources:
 
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
-More events will be posted for June soon! 
-
 
 # What is Galvanize?
 
@@ -243,7 +241,7 @@ More events will be posted for June soon!
 
 Transform your career with our immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) -  Mar23 - Jun19 | May11 - Aug7
+- [Software Engineer](http://bit.ly/seawebdev) -  Mar23 - Jun19 | May11 - Aug7 | 
 - [Data Science](http://bit.ly/seadatascience) - Mar16 - Jun12 | Jun29 - Sep25 | Oct5 - Jan15
 
 Remote options:
