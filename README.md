@@ -186,7 +186,7 @@ Or type the url **py1lab.sage.codes**
 
 ------
 
-[Come back tomorrow for part 2](https://www.eventbrite.com/e/intro-to-programming-with-python-part-2-tickets-86869724685)!
+[Come back tomorrow for part 2](https://www.eventbrite.com/e/intro-to-programming-with-python-part-2-tickets-90367697215)!
 
 - Part 1 Recap
 - Functions
@@ -243,7 +243,7 @@ More events will be posted for June soon!
 
 Transform your career with our immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) - Feb3 - May1 | Mar23 - Jun19 | May11 - Aug7
+- [Software Engineer](http://bit.ly/seawebdev) -  Mar23 - Jun19 | May11 - Aug7
 - [Data Science](http://bit.ly/seadatascience) - Mar16 - Jun12 | Jun29 - Sep25 | Oct5 - Jan15
 
 Remote options:
